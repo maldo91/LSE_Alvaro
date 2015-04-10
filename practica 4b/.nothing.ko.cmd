@@ -1,0 +1,1 @@
+cmd_/home/alvaro/Escritorio/d/nothing.ko := /home/alvaro/raspi//tools/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/bin/arm-linux-gnueabihf-ld -EL -r  -T /home/alvaro/raspi/linuxfinal/scripts/module-common.lds --build-id  -o /home/alvaro/Escritorio/d/nothing.ko /home/alvaro/Escritorio/d/nothing.o /home/alvaro/Escritorio/d/nothing.mod.o

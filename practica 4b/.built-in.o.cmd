@@ -1,0 +1,1 @@
+cmd_/home/alvaro/Escritorio/d/built-in.o :=  rm -f /home/alvaro/Escritorio/d/built-in.o; /home/alvaro/raspi//tools/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/bin/arm-linux-gnueabihf-ar rcsD /home/alvaro/Escritorio/d/built-in.o
